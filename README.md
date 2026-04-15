@@ -8,7 +8,7 @@ Mini application web pour choisir un restaurant aléatoirement.
 3. Laisser le hasard décider
 
 ## 🌐 Démo
-(à compléter avec ton lien GitHub Pages)
+👉 https://rachid-l.github.io/resto-roulette/
 
 ## 🛠️ Tech
 - HTML
